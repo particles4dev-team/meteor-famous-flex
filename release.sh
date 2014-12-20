@@ -28,4 +28,5 @@ git config credential.helper 'cache --timeout=30000'
 git commit -m "${msg}" -a
 git push
 
-meteor publish --create
+meteor publish
+#--create
