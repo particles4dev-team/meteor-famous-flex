@@ -1,7 +1,8 @@
 Package.describe({
 	name: 'mjn:global-flex-scrollview',
 	summary: 'This is package global-flex-scrollview',
-	version: "0.0.6"
+	version: "0.0.7",
+	git: 'https://github.com/mj-networks/meteor-flex-scrollview.git'
 });
 
 var S = 'server';
