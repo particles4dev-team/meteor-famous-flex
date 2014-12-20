@@ -1,4 +1,4 @@
-Exports all classes as global symbols ijzerenhein.*
+Exports all classes as global symbols ijzerenhein.* and using the global famous.* symbols.
 
     ijzerenhein.FlexScrollView = require('./src/FlexScrollView');
     ijzerenhein.FlowLayoutNode = require('./src/FlowLayoutNode');
