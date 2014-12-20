@@ -1,7 +1,7 @@
 Package.describe({
 	name: 'mjn:global-flex-scrollview',
 	summary: 'This is package global-flex-scrollview',
-	version: "0.0.5"
+	version: "0.0.6"
 });
 
 var S = 'server';
