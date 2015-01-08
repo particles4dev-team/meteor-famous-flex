@@ -19,4 +19,4 @@ Exports all classes as global symbols ijzerenhein.* and using the global famous.
 
     ijzerenhein.helpers.LayoutDockHelper = require('./src/helpers/LayoutDockHelper');
 
-This a done using browserify - see https://github.com/mj-networks/famous-flex
+This a done using browserify - see https://github.com/IjzerenHein/famous-flex.git
