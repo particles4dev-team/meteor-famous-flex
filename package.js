@@ -1,7 +1,7 @@
 Package.describe({
 	name: 'particle4dev:famous-flex',
 	summary: 'Animatable layouts, FlexScrollView & widgets for famo.us.',
-	version: "0.1.9",
+	version: "0.2.0",
 	git: 'https://github.com/particle4dev/meteor-flex-scrollview'
 });
 
