@@ -1,3 +1,6 @@
+###Example
+[Meteor Pad](http://meteorpad.com/pad/LHiYnTa7zN7ddgJAR/Leaderboard)
+
 Exports all classes as global symbols ijzerenhein.* and using the global famous.* symbols.
 
     ijzerenhein.FlexScrollView = require('./src/FlexScrollView');
